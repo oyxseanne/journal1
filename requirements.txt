@@ -17,6 +17,10 @@ jupyterlab-language-pack-zh-CN
 # P5 kernel (optional)
 jupyterlite-p5-kernel==0.1.0
 
+                 pip install jupyterlab-webrtc-docprovider
+mamba install -c conda-forge jupyterlab-webrtc-docprovider
+conda install -c conda-forge jupyterlab-webrtc-docprovider
+
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
 # JupyterLab: Geojson file renderer (optional)
